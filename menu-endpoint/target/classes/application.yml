@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://ryan:admin@ec2-13-58-34-18.us-east-2.compute.amazonaws.com/menu

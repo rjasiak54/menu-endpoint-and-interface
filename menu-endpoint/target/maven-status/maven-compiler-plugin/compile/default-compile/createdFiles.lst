@@ -1,0 +1,7 @@
+com/example/mongodb/springbootmongodb/model/Menu.class
+com/example/mongodb/springbootmongodb/controller/MenuClient.class
+com/example/mongodb/springbootmongodb/menurules/MenuRules.class
+com/example/mongodb/springbootmongodb/controller/MenuController.class
+com/example/mongodb/springbootmongodb/ResourceNotFoundException.class
+com/example/mongodb/springbootmongodb/SpringbootMongodbApplication.class
+com/example/mongodb/springbootmongodb/repository/MenuRepository.class
