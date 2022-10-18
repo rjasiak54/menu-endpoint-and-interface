@@ -4,6 +4,12 @@ import traceback
 
 import menu_interface_config
 
+
+#
+# Encapsulates the functionality for
+# for communication between the user
+# and the menu api
+#
 class menu_interface:
 
     def __init__(self):
@@ -50,6 +56,7 @@ def print_sub_menu(menu, meal):
 
 
 
+# main:;;;;;;;;;;;
 def main() -> None:
 
     mi = menu_interface()
